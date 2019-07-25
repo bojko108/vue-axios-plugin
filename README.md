@@ -1,4 +1,6 @@
-# Vuejs plugin for emitting events
+# Vuejs plugin for making HTTP requests
+
+You can find more infromation about Axios [here](https://github.com/axios/axios).
 
 # Installation
 
